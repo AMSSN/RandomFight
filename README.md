@@ -54,4 +54,5 @@ how mush ?
         self.ui.label_input_2.setText(self.result3)
         self.ui.plainTextEdit.appendPlainText("------------------------")
 ```
+3、直接下载release里的exe文件，开始和小伙伴们快乐的Van耍吧！
 
