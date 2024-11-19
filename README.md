@@ -1,2 +1,2 @@
-# RandomFight
-League of Legends (ARAM) random reward tool
+大乱斗随机奖励工具
+
